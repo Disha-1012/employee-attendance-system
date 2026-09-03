@@ -63,6 +63,20 @@ Employees on approved leave cannot check in for the corresponding leave date.
 
 ---
 
+## 🔐 Demo Access
+
+Attendify provides separate role-based experiences for **HR**.
+
+For recruiters and evaluators, dedicated demo accounts are available to explore the application's functionality.
+
+### 👨‍💼 HR Demo
+
+**Email:** `attendify.hr@gmail.com`
+
+**Password:** `Provided separately for project evaluation`
+
+HR-only backend routes are protected using authentication and role-based authorization. Normal employee accounts cannot access HR resources even if they manually attempt to access HR routes.
+
 ## 🧑‍💼 HR Features
 
 ### 📊 HR Dashboard
